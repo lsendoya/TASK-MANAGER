@@ -26,7 +26,8 @@
       "@/api/*": ["./src/api/*"],
       "@/config/*": ["./src/config/*"],
       "@/types/*": ["./src/types/*"],
-      "@/models/*": ["./src/models/*"]
+      "@/models/*": ["./src/models/*"],
+      "@/constants/*": ["./src/constants/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
